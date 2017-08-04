@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace 手机摄像头
+namespace SocketCamera
 {
     static class Program
     {

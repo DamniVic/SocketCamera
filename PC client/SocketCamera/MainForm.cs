@@ -12,7 +12,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 
-namespace 手机摄像头
+namespace SocketCamera
 {
     public partial class MainForm : Form
     {

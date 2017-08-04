@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 
-namespace 手机摄像头
+namespace SocketCamera
 {
     public partial class PhoneVideoForm : Form
     {

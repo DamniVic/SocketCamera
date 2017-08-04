@@ -7,3 +7,11 @@ D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机�
 D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\SocketCamera\obj\x86\Debug\手机摄像头.PhoneVideoForm.resources
 D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\SocketCamera\obj\x86\Debug\手机摄像头.Properties.Resources.resources
 D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\SocketCamera\obj\x86\Debug\SocketCamera.csproj.GenerateResource.Cache
+D:\AndroidAndJava\SocketCanera\PC client\SocketCamera\obj\x86\Debug\SocketCamera.csproj.GenerateResource.Cache
+D:\AndroidAndJava\SocketCanera\PC client\SocketCamera\obj\x86\Debug\SocketCamera.MainForm.resources
+D:\AndroidAndJava\SocketCanera\PC client\SocketCamera\obj\x86\Debug\SocketCamera.PhoneVideoForm.resources
+D:\AndroidAndJava\SocketCanera\PC client\SocketCamera\bin\Debug\SocketCamera.exe
+D:\AndroidAndJava\SocketCanera\PC client\SocketCamera\bin\Debug\SocketCamera.pdb
+D:\AndroidAndJava\SocketCanera\PC client\SocketCamera\obj\x86\Debug\SocketCamera.Properties.Resources.resources
+D:\AndroidAndJava\SocketCanera\PC client\SocketCamera\obj\x86\Debug\SocketCamera.exe
+D:\AndroidAndJava\SocketCanera\PC client\SocketCamera\obj\x86\Debug\SocketCamera.pdb

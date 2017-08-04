@@ -1,4 +1,4 @@
-﻿namespace 手机摄像头
+﻿namespace SocketCamera
 {
     partial class PhoneVideoForm
     {
