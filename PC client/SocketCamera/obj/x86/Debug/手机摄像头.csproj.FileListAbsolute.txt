@@ -1,0 +1,17 @@
+F:\Workspace\手机摄像头\手机摄像头\bin\Debug\手机摄像头.exe
+F:\Workspace\手机摄像头\手机摄像头\bin\Debug\手机摄像头.pdb
+F:\Workspace\手机摄像头\手机摄像头\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Workspace\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.MainForm.resources
+F:\Workspace\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.PhoneVideoForm.resources
+F:\Workspace\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.Properties.Resources.resources
+F:\Workspace\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.exe
+F:\Workspace\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.pdb
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.exe
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.pdb
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\bin\Debug\手机摄像头.exe
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\bin\Debug\手机摄像头.pdb
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.csprojResolveAssemblyReference.cache
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.MainForm.resources
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.PhoneVideoForm.resources
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.Properties.Resources.resources
+D:\AndroidAndJava\Project\基于Socket的Android手机视频实时传输\手机摄像头\手机摄像头\obj\x86\Debug\手机摄像头.csproj.GenerateResource.Cache
